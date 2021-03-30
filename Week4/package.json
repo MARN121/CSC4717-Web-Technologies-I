@@ -1,0 +1,15 @@
+{
+  "name": "w4app",
+  "version": "1.0.0",
+  "description": "Week 4 Practice",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon App.js"
+  },
+  "keywords": [
+    "crudAPI"
+  ],
+  "author": "Muhammad Asad",
+  "license": "ISC"
+}
